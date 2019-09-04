@@ -1,6 +1,6 @@
 ## Learning when coding
 
-**k = k% size; This is really important!** 
+**k = k% size; This is really important, in case it gives us k>size!** 
 - My first thought: change the data number, `head->val = new data`
     - the new data  = old data - move + list size
     - This can only work when the data is accending and continuous
@@ -11,6 +11,6 @@
 
 - Second thought: **make the Link list a round** `tail->next = head`
     - In this way, just move `size-k` times, and make `prev->next = NULL`
-    - 
+    
 
 
