@@ -3,7 +3,7 @@
 
 |Leetcode ID|Link to solution for cpp|Difficulty|Topic|Time compacity|Space sompacity|
 |:---------:|:----------------------:|:--------:|:----:|:-----------:|:-------------:|
-|#1|[Two Sum](https://github.com/Sinyu104/Leetcode-practice/tree/master/0002-two_sum/solution.cpp)|Easy|Array|O(n)|O(n)|
+|#1|[Two Sum](https://github.com/Sinyu104/Leetcode-practice/tree/master/0001-two_sum/solution.cpp)|Easy|Array|O(n)|O(n)|
 |#69|[Sqrt(x)](https://github.com/Sinyu104/Leetcode-practice/blob/master/0069-sqrt(x)/solution.cpp)|Easy|Binary search|O(log n)|O(n)|
 |#520|[Detect Capital](https://github.com/Sinyu104/Leetcode-practice/tree/master/520-Detect_Capital)|Easy|String|O(n)|O(n)|
 |#20|[Valid Parentheses](https://github.com/Sinyu104/Leetcode-practice/tree/master/0020-Valid_Parentheses)|Easy|String|O(n)|O(n)|
@@ -22,6 +22,6 @@
 |#234|[Palindrome Linked List](https://github.com/Sinyu104/Leetcode-practice/tree/master/0234-Palindrome_Linked_List)|Easy|Linked list|O(n)|O(1)|
 |#876|[Middle of the Linked List](https://github.com/Sinyu104/Leetcode-practice/tree/master/0876-Middle_of_the_Linked_List)|Easy|Linked list|O(n)|O(n)|
 |#141|[Linked List Cycle](https://github.com/Sinyu104/Leetcode-practice/tree/master/0141-Linked_List_Cycle)|Easy|Linked list|O(n)|O(1)|
-|#2|[Add Two Numbers](https://github.com/Sinyu104/Leetcode-practice/tree/master/0061-Rotate_List)|Midium|Linked list|O(m+n)|O(n)|
+|#2|[Add Two Numbers](https://github.com/Sinyu104/Leetcode-practice/tree/master/0002-Add_Two_Numbers)|Midium|Linked list|O(m+n)|O(n)|
 |#61|[Rotate List](https://github.com/Sinyu104/Leetcode-practice/tree/master/0061-Rotate_List)|Midium|Linked list|O(n)|O(n)|
 
