@@ -4,6 +4,7 @@
 |Leetcode ID|Link to solution for cpp|Difficulty|Topic|Time compacity|Space sompacity|
 |:---------:|:----------------------:|:--------:|:----:|:-----------:|:-------------:|
 |#1|[Two Sum](https://github.com/Sinyu104/Leetcode-practice/tree/master/0001-two_sum/solution.cpp)|Easy|Array|O(n)|O(n)|
+|#283|[Move Zeroes](https://github.com/Sinyu104/Leetcode-practice/tree/master/0001-two_sum/solution.cpp)|Easy|Array|O(n)|O(1)|
 |#69|[Sqrt(x)](https://github.com/Sinyu104/Leetcode-practice/blob/master/0069-sqrt(x)/solution.cpp)|Easy|Binary search|O(log n)|O(n)|
 |#520|[Detect Capital](https://github.com/Sinyu104/Leetcode-practice/tree/master/520-Detect_Capital)|Easy|String|O(n)|O(n)|
 |#20|[Valid Parentheses](https://github.com/Sinyu104/Leetcode-practice/tree/master/0020-Valid_Parentheses)|Easy|String|O(n)|O(n)|
