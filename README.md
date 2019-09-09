@@ -7,7 +7,7 @@
 |#283|[Move Zeroes](https://github.com/Sinyu104/Leetcode-practice/tree/master/0283-Move_Zeroes)|Easy|Array|O(n)|O(1)|
 |#69|[Sqrt(x)](https://github.com/Sinyu104/Leetcode-practice/blob/master/0069-sqrt(x)/solution.cpp)|Easy|Binary search|O(log n)|O(n)|
 |#520|[Detect Capital](https://github.com/Sinyu104/Leetcode-practice/tree/master/520-Detect_Capital)|Easy|String|O(n)|O(n)|
-|#14|[Longest Common Prefix](https://github.com/Sinyu104/Leetcode-practice/tree/master/0020-Valid_Parentheses)|Easy|String|O(n^2)|O(n)|
+|#14|[Longest Common Prefix](https://github.com/Sinyu104/Leetcode-practice/tree/master/0014-Longest_Common_Prefix)|Easy|String|O(n^2)|O(n)|
 |#20|[Valid Parentheses](https://github.com/Sinyu104/Leetcode-practice/tree/master/0020-Valid_Parentheses)|Easy|String|O(n)|O(n)|
 |#27|[Remove Element](https://github.com/Sinyu104/Leetcode-practice/tree/master/0027-Remove_Element)|Easy|String|O(n)|O(1)|
 |#383|[Ransom Note](https://github.com/Sinyu104/Leetcode-practice/tree/master/0383-Ransom_Note)|Easy|String|O(n)|O(n)|
