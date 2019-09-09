@@ -16,7 +16,7 @@
 |#136|[Single Number](https://github.com/Sinyu104/Leetcode-practice/blob/master/0136-Single_Number/solution.cpp)|Easy|Hash table|O(log n)|O(n)|
 |#669|[Trim a Binary Search Tree](https://github.com/Sinyu104/Leetcode-practice/tree/master/0669-Trim_a_Binary_Search_Tree)|Easy|Tree|O(n)|O(n)|
 |#100|[Same Tree](https://github.com/Sinyu104/Leetcode-practice/tree/master/0100-Same_Tree)|Easy|Tree|O(n)|O(n)|
-|#101|[Symmetric Tree](https://github.com/Sinyu104/Leetcode-practice/tree/master/0100-Same_Tree)|Easy|Tree|O(n)|O(1)|
+|#101|[Symmetric Tree](https://github.com/Sinyu104/Leetcode-practice/tree/master/0101-Symmetric_Tree)|Easy|Tree|O(n)|O(1)|
 |#104|[Maximum Depth of Binary Tree](https://github.com/Sinyu104/Leetcode-practice/tree/master/0104-Maximum_Depth_of_Binary_Tree)|Easy|Tree DFS|O(n)|O(n)|
 |#107|[Binary Tree Level Order Traversal II](https://github.com/Sinyu104/Leetcode-practice/tree/master/0107-Binary_Tree_Level_Order_Traversal_II)|Easy|Tree|O(n)|O(n^2)|
 |#112|[Path Sum](https://github.com/Sinyu104/Leetcode-practice/tree/master/0112-Path_Sum)|Easy|Tree|O(n)|O(1)|
