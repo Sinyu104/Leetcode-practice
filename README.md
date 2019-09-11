@@ -16,6 +16,7 @@
 |#387|[First Unique Character in a String](https://github.com/Sinyu104/Leetcode-practice/tree/master/0387-First_Unique_Character_in_a_String)|Easy|String|O(n)|O(n)|
 |#136|[Single Number](https://github.com/Sinyu104/Leetcode-practice/blob/master/0136-Single_Number/solution.cpp)|Easy|Hash table|O(log n)|O(n)|
 |#242|[Valid Anagram](https://github.com/Sinyu104/Leetcode-practice/tree/master/0242-Valid_Anagram)|Easy|Sort|O(n)|O(n)|
+|#350|[Intersection of Two Arrays II](https://github.com/Sinyu104/Leetcode-practice/tree/master/0242-Valid_Anagram)|Easy|Sort|O(n)|O(n)|
 |#75|[Sort Colors](https://github.com/Sinyu104/Leetcode-practice/tree/master/0075-Sort_Colors)|Medium|Sort|O(n)|O(1)|
 |#669|[Trim a Binary Search Tree](https://github.com/Sinyu104/Leetcode-practice/tree/master/0669-Trim_a_Binary_Search_Tree)|Easy|Tree|O(n)|O(n)|
 |#100|[Same Tree](https://github.com/Sinyu104/Leetcode-practice/tree/master/0100-Same_Tree)|Easy|Tree|O(n)|O(n)|
