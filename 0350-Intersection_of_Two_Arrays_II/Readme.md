@@ -6,4 +6,5 @@
     - We can do something like binary search.
 
 - solution 2:
-    - 
+    - This solution is more quicker.
+    - > _Always remember to implement **two pointer method**_
