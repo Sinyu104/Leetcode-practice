@@ -4,7 +4,7 @@
 |Leetcode ID|Link to solution for cpp|Difficulty|Topic|Time compacity|Space sompacity|
 |:---------:|:----------------------:|:--------:|:----:|:-----------:|:-------------:|
 |#1|[Two Sum](https://github.com/Sinyu104/Leetcode-practice/tree/master/0001-two_sum/solution.cpp)|Easy|Array|O(n)|O(n)|
-|#169|[Majority Element](https://github.com/Sinyu104/Leetcode-practice/tree/master/0001-two_sum/solution.cpp)|Easy|Array|O(n)|O(n)|
+|#169|[Majority Element](https://github.com/Sinyu104/Leetcode-practice/tree/master/0169-Majority_Element)|Easy|Array|O(n)|O(n)|
 |#217|[Contains Duplicate](https://github.com/Sinyu104/Leetcode-practice/tree/master/0217-Contains_Duplicate)|Easy|Array|O(n)|O(1)|
 |#283|[Move Zeroes](https://github.com/Sinyu104/Leetcode-practice/tree/master/0283-Move_Zeroes)|Easy|Array|O(n)|O(1)|
 |#412|[Fizz Buzz](https://github.com/Sinyu104/Leetcode-practice/tree/master/0412-Fizz_Buzz)|Easy|Array|O(n)|O(n)|
