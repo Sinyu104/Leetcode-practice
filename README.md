@@ -33,7 +33,7 @@
 |#116|[Populating Next Right Pointers in Each Node](https://github.com/Sinyu104/Leetcode-practice/blob/master/0116-Populating_Next_Right_Pointers_in_Each_Node/solution1.cpp)|Midium|Tree|O(n)|O(n)|
 |#21|[Merge Two Sorted Lists](https://github.com/Sinyu104/Leetcode-practice/tree/master/0021-Merge_Two_Sorted_Lists)|Easy|Linked list|O(n)|O(n)|
 |#234|[Palindrome Linked List](https://github.com/Sinyu104/Leetcode-practice/tree/master/0234-Palindrome_Linked_List)|Easy|Linked list|O(n)|O(1)|
-|#206|[Reverse Linked List](https://github.com/Sinyu104/Leetcode-practice/tree/master/0234-Palindrome_Linked_List)|Easy|Linked list|O(n)|O(1)|
+|#206|[Reverse Linked List](https://github.com/Sinyu104/Leetcode-practice/tree/master/0206-Reverse_Linked_List)|Easy|Linked list|O(n)|O(1)|
 |#876|[Middle of the Linked List](https://github.com/Sinyu104/Leetcode-practice/tree/master/0876-Middle_of_the_Linked_List)|Easy|Linked list|O(n)|O(n)|
 |#141|[Linked List Cycle](https://github.com/Sinyu104/Leetcode-practice/tree/master/0141-Linked_List_Cycle)|Easy|Linked list|O(n)|O(1)|
 |#2|[Add Two Numbers](https://github.com/Sinyu104/Leetcode-practice/tree/master/0002-Add_Two_Numbers)|Midium|Linked list|O(m+n)|O(n)|
