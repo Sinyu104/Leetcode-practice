@@ -34,6 +34,7 @@
 |#98|[Validate Binary Search Tree](https://github.com/Sinyu104/Leetcode-practice/tree/master/0098-Validate_Binary_Search_Tree)|Midium|Tree|O(n)|O(1)|
 |#116|[Populating Next Right Pointers in Each Node](https://github.com/Sinyu104/Leetcode-practice/blob/master/0116-Populating_Next_Right_Pointers_in_Each_Node/solution1.cpp)|Midium|Tree|O(n)|O(n)|
 |#21|[Merge Two Sorted Lists](https://github.com/Sinyu104/Leetcode-practice/tree/master/0021-Merge_Two_Sorted_Lists)|Easy|Linked list|O(n)|O(n)|
+|#160|[Intersection of Two Linked Lists](https://github.com/Sinyu104/Leetcode-practice/tree/master/0021-Merge_Two_Sorted_Lists)|Easy|Linked list|O(n)|O(1)|
 |#234|[Palindrome Linked List](https://github.com/Sinyu104/Leetcode-practice/tree/master/0234-Palindrome_Linked_List)|Easy|Linked list|O(n)|O(1)|
 |#206|[Reverse Linked List](https://github.com/Sinyu104/Leetcode-practice/tree/master/0206-Reverse_Linked_List)|Easy|Linked list|O(n)|O(1)|
 |#237|[Delete Node in a Linked List](https://github.com/Sinyu104/Leetcode-practice/tree/master/0237-Delete_Node_in_a_Linked_List)|Easy|Linked list|O(1)|O(1)|
