@@ -15,8 +15,9 @@
 |#14|[Longest Common Prefix](https://github.com/Sinyu104/Leetcode-practice/tree/master/0014-Longest_Common_Prefix)|Easy|String|O(n^2)|O(n)|
 |#20|[Valid Parentheses](https://github.com/Sinyu104/Leetcode-practice/tree/master/0020-Valid_Parentheses)|Easy|String|O(n)|O(n)|
 |#27|[Remove Element](https://github.com/Sinyu104/Leetcode-practice/tree/master/0027-Remove_Element)|Easy|String|O(n)|O(1)|
-|#383|[Ransom Note](https://github.com/Sinyu104/Leetcode-practice/tree/master/0383-Ransom_Note)|Easy|String|O(n)|O(n)|
+|#125|[Valid Palindrome](https://github.com/Sinyu104/Leetcode-practice/tree/master/0125-Valid_Palindrome)|Easy|String|O(n)|O(n)|
 |#344|[Reverse String](https://github.com/Sinyu104/Leetcode-practice/tree/master/0344-Reverse_String)|Easy|String|O(n)|O(1)|
+|#383|[Ransom Note](https://github.com/Sinyu104/Leetcode-practice/tree/master/0383-Ransom_Note)|Easy|String|O(n)|O(n)|
 |#387|[First Unique Character in a String](https://github.com/Sinyu104/Leetcode-practice/tree/master/0387-First_Unique_Character_in_a_String)|Easy|String|O(n)|O(n)|
 |#520|[Detect Capital](https://github.com/Sinyu104/Leetcode-practice/tree/master/520-Detect_Capital)|Easy|String|O(n)|O(n)|
 |#136|[Single Number](https://github.com/Sinyu104/Leetcode-practice/blob/master/0136-Single_Number/solution.cpp)|Easy|Hash table|O(log n)|O(n)|
