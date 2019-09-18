@@ -9,6 +9,7 @@
 |#283|[Move Zeroes](https://github.com/Sinyu104/Leetcode-practice/tree/master/0283-Move_Zeroes)|Easy|Array|O(n)|O(1)|
 |#412|[Fizz Buzz](https://github.com/Sinyu104/Leetcode-practice/tree/master/0412-Fizz_Buzz)|Easy|Array|O(n)|O(n)|
 |#561|[Array Partition I](https://github.com/Sinyu104/Leetcode-practice/tree/master/0561-Array_Partition_I)|Easy|Array|O(n)|O(1)|
+|#49|[Group Anagrams](https://github.com/Sinyu104/Leetcode-practice/tree/master/0287-Find_the_Duplicate_Number)|Medium|Array|O(n)|O(n)|
 |#287|[Find the Duplicate Number](https://github.com/Sinyu104/Leetcode-practice/tree/master/0287-Find_the_Duplicate_Number)|Medium|Array|O(n)|O(1)|
 |#69|[Sqrt(x)](https://github.com/Sinyu104/Leetcode-practice/blob/master/0069-sqrt(x)/solution.cpp)|Easy|Binary search|O(log n)|O(n)|
 |#202|[Happy Number](https://github.com/Sinyu104/Leetcode-practice/tree/master/0202-Happy_Number)|Easy|Math|O(n)|O(n)|
