@@ -48,5 +48,5 @@
 |#2|[Add Two Numbers](https://github.com/Sinyu104/Leetcode-practice/tree/master/0002-Add_Two_Numbers)|Midium|Linked list|O(m+n)|O(n)|
 |#61|[Rotate List](https://github.com/Sinyu104/Leetcode-practice/tree/master/0061-Rotate_List)|Midium|Linked list|O(n)|O(n)|
 |#92|[Reverse Linked List II](https://github.com/Sinyu104/Leetcode-practice/tree/master/0092-Reverse_Linked_List_II)|Midium|Linked list|O(n)|O(1)|
-|#328|[Odd Even Linked List](https://github.com/Sinyu104/Leetcode-practice/tree/master/0092-Reverse_Linked_List_II)|Midium|Linked list|O(n)|O(1)|
+|#328|[Odd Even Linked List](https://github.com/Sinyu104/Leetcode-practice/tree/master/0328-Odd_Even_Linked_List)|Midium|Linked list|O(n)|O(1)|
 
