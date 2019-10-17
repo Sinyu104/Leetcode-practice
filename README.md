@@ -11,6 +11,7 @@
 |#561|[Array Partition I](https://github.com/Sinyu104/Leetcode-practice/tree/master/0561-Array_Partition_I)|Easy|Array|O(n)|O(1)|
 |#49|[Group Anagrams](https://github.com/Sinyu104/Leetcode-practice/tree/master/0049-Group_Anagrams)|Medium|Array|O(n)|O(n)|
 |#287|[Find the Duplicate Number](https://github.com/Sinyu104/Leetcode-practice/tree/master/0287-Find_the_Duplicate_Number)|Medium|Array|O(n)|O(1)|
+|#334|[Increasing Triplet Subsequence](https://github.com/Sinyu104/Leetcode-practice/tree/master/0049-Group_Anagrams)|Medium|Array|O(n)|O(1)|
 |#69|[Sqrt(x)](https://github.com/Sinyu104/Leetcode-practice/blob/master/0069-sqrt(x)/solution.cpp)|Easy|Binary search|O(log n)|O(n)|
 |#202|[Happy Number](https://github.com/Sinyu104/Leetcode-practice/tree/master/0202-Happy_Number)|Easy|Math|O(n)|O(n)|
 |#204|[Count Primes](https://github.com/Sinyu104/Leetcode-practice/tree/master/0204-Count_Primes)|Easy|Math|O(n*sqrt(n))|O(1))|
@@ -50,4 +51,3 @@
 |#61|[Rotate List](https://github.com/Sinyu104/Leetcode-practice/tree/master/0061-Rotate_List)|Midium|Linked list|O(n)|O(n)|
 |#92|[Reverse Linked List II](https://github.com/Sinyu104/Leetcode-practice/tree/master/0092-Reverse_Linked_List_II)|Midium|Linked list|O(n)|O(1)|
 |#328|[Odd Even Linked List](https://github.com/Sinyu104/Leetcode-practice/tree/master/0328-Odd_Even_Linked_List)|Midium|Linked list|O(n)|O(1)|
-
