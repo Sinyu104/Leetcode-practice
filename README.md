@@ -8,7 +8,8 @@
 |#217|[Contains Duplicate](https://github.com/Sinyu104/Leetcode-practice/tree/master/0217-Contains_Duplicate)|Easy|Array|O(n)|O(1)|
 |#283|[Move Zeroes](https://github.com/Sinyu104/Leetcode-practice/tree/master/0283-Move_Zeroes)|Easy|Array|O(n)|O(1)|
 |#412|[Fizz Buzz](https://github.com/Sinyu104/Leetcode-practice/tree/master/0412-Fizz_Buzz)|Easy|Array|O(n)|O(n)|
-|#561|[Array Partition I](https://github.com/Sinyu104/Leetcode-practice/tree/master/0561-Array_Partition_I)|Easy|Array|O(n)|O(1)|
+|#561|[Array Partition I](https://github.com/Sinyu104/Leetcode-practice/tree/master/0561-Array_Partition_I)|Easy|Array|O(n)|O(n)|
+|#1304|[Find N Unique Integers Sum up to Zero](https://github.com/Sinyu104/Leetcode-practice/tree/master/0561-Array_Partition_I)|Easy|Array|O(n)|O(1)|
 |#49|[Group Anagrams](https://github.com/Sinyu104/Leetcode-practice/tree/master/0049-Group_Anagrams)|Medium|Array|O(n)|O(n)|
 |#287|[Find the Duplicate Number](https://github.com/Sinyu104/Leetcode-practice/tree/master/0287-Find_the_Duplicate_Number)|Medium|Array|O(n)|O(1)|
 |#334|[Increasing Triplet Subsequence](https://github.com/Sinyu104/Leetcode-practice/tree/master/0334-Increasing_Triplet_Subsequence)|Medium|Array|O(n)|O(1)|
